@@ -1,0 +1,5 @@
+cv2==4.6.0
+glob2==0.7
+nibabel==5.0.0
+numpy==1.22.3
+tensorflow==2.7.0
